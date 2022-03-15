@@ -1,0 +1,4 @@
+Materials Id,Formula,Spacegroup,Formation Energy (eV),E Above Hull (eV),Band Gap (eV),Volume,Nsites,Density (gm/cc)
+mp-20351,InP,F43m,-0.206,0,0.466,52.84,2,4.582
+mp-966800,InP,P63mc,-0.201,0.004,0.514,105.968,4,4.569
+mp-20457,InP,Fm3m,0.03,0.235,0,42.454,2,5.702

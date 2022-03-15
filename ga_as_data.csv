@@ -1,0 +1,13 @@
+Materials Id,Formula,Spacegroup,Formation Energy (eV),E Above Hull (eV),Band Gap (eV),Volume,Nsites,Density (gm/cc),Crystal System
+mp-2534,GaAs,F43m,-0.35,0,0.184,47.532,2,5.053,cubic
+mp-8883,GaAs,P63mc,-0.338,0.012,0.192,95.045,4,5.054,hexagonal
+mp-15619,GaAs,Pa3,-0.206,0.144,0,350.867,16,5.476,cubic
+mp-603640,GaAs,Imm2,-0.004,0.346,0,38.733,2,6.201,orthorhombic
+mp-1245314,GaAs,P1,0.057,0.407,0,2363.025,100,5.082,triclinic
+mp-1244899,GaAs,P1,0.058,0.408,0.008,2410.386,100,4.982,triclinic
+mp-1245074,GaAs,P1,0.06,0.41,0,2381.375,100,5.043,triclinic
+mp-10048,GaAs,P4/mmm,0.071,0.421,0,40.277,2,5.963,tetragonal
+mp-1245274,GaAs,P1,0.075,0.425,0,2346.231,100,5.119,triclinic
+mp-1059094,GaAs,Pmm2,0.092,0.442,0,39.781,2,6.038,orthorhombic
+mp-1244999,GaAs,P1,0.107,0.458,0,2327.407,100,5.16,triclinic
+mp-1232355,GaAs,Cm,0.286,0.636,0,691.114,16,2.78,monoclinic

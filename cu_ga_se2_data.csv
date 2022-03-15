@@ -1,0 +1,4 @@
+Materials Id,Formula,Spacegroup,Formation Energy (eV),E Above Hull (eV),Band Gap (eV),Volume,Nsites,Density (gm/cc)
+mp-4840,GaCuSe2,I42d,-0.478,0,0.458,180.762,8,5.35
+mp-38505,GaCuSe2,I41/amd,-0.242,0.236,0,150.076,8,6.444
+mp-1224788,GaCuSe2,P4/mmm,-0.229,0.249,0,75.019,4,6.445
